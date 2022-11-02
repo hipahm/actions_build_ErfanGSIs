@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download-xys.meizu.com/Firmware/Flyme/16T/9.21.6.29/cn_beta/20210629095625/641f413d/update.zip
-  ROM_NAME: FLYME
+  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1924_A_7.10.19-update-full_1655203028.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
